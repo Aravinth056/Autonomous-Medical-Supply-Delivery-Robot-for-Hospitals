@@ -1,1 +1,0 @@
-# Autonomous-Medical-Supply-Delivery-Robot-for-Hospitals
