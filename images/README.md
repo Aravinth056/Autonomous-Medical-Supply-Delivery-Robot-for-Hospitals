@@ -25,18 +25,3 @@ Images of the developed MediRoute robot prototype and its major components are s
 
 Images can be used in the main project README and documentation to show the robot design, hardware arrangement, website interface, and testing process.
 
-## Image Naming
-
-Use simple and clear file names, for example:
-
-- `robot-prototype.jpg`
-- `arduino-uno.jpg`
-- `ir-sensor.jpg`
-- `hc-sr04.jpg`
-- `l298n.jpg`
-- `dc-gear-motor.jpg`
-- `battery.jpg`
-- `lcd.jpg`
-- `robot-chassis.jpg`
-- `website.jpg`
-- `testing.jpg`
